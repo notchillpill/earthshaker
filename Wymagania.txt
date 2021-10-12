@@ -1,0 +1,2 @@
+1. Zainstaluj node.js
+2. Zainstaluj paczki: aoi.js @discordjs/opus discord.js opusscript whatwg-url
